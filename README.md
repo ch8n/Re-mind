@@ -32,19 +32,18 @@ If you're looking for a dedicated Android developer who is passionate about open
 
 <table>
    <tr>
-      <td><b>Mac</b></td>
-      <td><b>Window</b></td>
-      <td><b>Linux</b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Mac (here) </a></b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Windows (here) </a></b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Linux (here) </a></b></td>
    </tr>
    <tr>
-      <td><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">
-         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100">
-         </a>
-      </td>
-      <td><a href="">
+      <td>
          <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100">
       </td>
-      <td><a href="">
+      <td> <a href="">
+         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100">
+      </td>
+      <td> <a href="">
          <img src="https://github.com/ch8n/Re-mind/assets/11576342/541d24e9-a20c-4bb6-8ca3-bbe3b134ab87" width="100" height="100">
       </td>
    </tr>
