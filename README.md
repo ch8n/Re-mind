@@ -48,7 +48,7 @@ If you're looking for a dedicated Android developer who is passionate about open
 </table>
 
 # Tech Stack
-The DSA Trainer App leverages the following technologies to deliver a seamless user experience:
+The Re-mind 🧠 App leverages the following technologies to deliver a seamless user experience:
 
 - Kotlin: The primary programming language used for developing the application. Kotlin offers concise syntax, null safety, and interoperability with existing Java code.
 
@@ -60,7 +60,7 @@ The DSA Trainer App leverages the following technologies to deliver a seamless u
 
 - Kotlin Coroutines: An asynchronous programming framework that simplifies concurrency and asynchronous operations. Kotlin Coroutines enable smooth and non-blocking execution of tasks, enhancing the app's performance and responsiveness.
 
-By incorporating these technologies into the DSA Trainer App, we ensure a robust, efficient, and user-friendly experience for DSA revision.
+By incorporating these technologies into the Re-mind 🧠 App, I ensured a robust, efficient, and user-friendly experience for DSA revision.
 
 # Proprietary Closed Source License
 
