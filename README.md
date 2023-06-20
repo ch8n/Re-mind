@@ -21,10 +21,8 @@ Learn from your mistakes and enhance your problem-solving abilities
 Stay motivated and engaged in your DSA revision journey
 Retain DSA knowledge for longer periods of time
 
-## Support the App
+## Support the App | Donate [here](https://www.paypal.com/paypalme/gch8n)
 This app is supported by generous donations from users like you. If you find the DSA Trainer App helpful, please consider making a donation to support its continued development. Your contribution enables me to create more great tools that aid developers in learning and improving their skills. Thank you for your support! 
-
-### Donate [here](https://www.paypal.com/paypalme/gch8n)
 
 If you're looking for a dedicated Android developer who is passionate about open-source software and helping others, feel free to reach out to me at dev.ch8n@gmail.com. I'd be delighted to collaborate with you on your projects.
 
