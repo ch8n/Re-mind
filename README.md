@@ -47,6 +47,21 @@ If you're looking for a dedicated Android developer who is passionate about open
    </tr>
 </table>
 
+# Tech Stack
+The DSA Trainer App leverages the following technologies to deliver a seamless user experience:
+
+- Kotlin: The primary programming language used for developing the application. Kotlin offers concise syntax, null safety, and interoperability with existing Java code.
+
+- Jetpack Compose: The modern declarative UI toolkit for building user interfaces in Android. Jetpack Compose simplifies UI development with its composable nature and reactive programming model.
+
+- Multiplatform Desktop: The app utilizes Kotlin's multiplatform capabilities to target desktop platforms, including macOS. This enables a consistent codebase and UI across different platforms.
+
+- JetBrains Exposed: A lightweight SQL library built specifically for Kotlin. Exposed provides a convenient and intuitive way to interact with SQLite databases, making data storage and retrieval efficient and seamless.
+
+- Kotlin Coroutines: An asynchronous programming framework that simplifies concurrency and asynchronous operations. Kotlin Coroutines enable smooth and non-blocking execution of tasks, enhancing the app's performance and responsiveness.
+
+By incorporating these technologies into the DSA Trainer App, we ensure a robust, efficient, and user-friendly experience for DSA revision.
+
 # Proprietary Closed Source License
 
 This application is provided as closed-source software, granting you the right to use and distribute it free of charge. However, modification of the application's source code is strictly prohibited. This license restricts any alterations, enhancements, or modifications to the software. Please note that this license does not grant you access to the application's source code or any rights beyond its usage and distribution as provided.
