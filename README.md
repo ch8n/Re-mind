@@ -26,6 +26,8 @@ This app is supported by generous donations from users like you. If you find the
 
 If you're looking for a dedicated Android developer who is passionate about open-source software and helping others, feel free to reach out to me at dev.ch8n@gmail.com. I'd be delighted to collaborate with you on your projects.
 
+---
+
 ## Download
 
 <table>
@@ -46,6 +48,8 @@ If you're looking for a dedicated Android developer who is passionate about open
       </td>
    </tr>
 </table>
+
+---
 
 # Tech Stack
 The Re-mind 🧠 App leverages the following technologies to deliver a seamless user experience:
