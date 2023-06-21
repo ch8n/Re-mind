@@ -70,13 +70,13 @@ Please read and understand this license before using or distributing the applica
    </tr>
    <tr>
       <td>
-         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100">
+         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100"/>
       </td>
       <td> <a href="">
-         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100">
+         <img src="https://github.com/ch8n/Re-mind/assets/11576342/bf8ac18e-77d9-4773-b9ca-bd6355d51c9c" width="100" height="100"/>
       </td>
       <td> <a href="">
-         <img src="https://github.com/ch8n/Re-mind/assets/11576342/541d24e9-a20c-4bb6-8ca3-bbe3b134ab87" width="100" height="100">
+         <img src="https://github.com/ch8n/Re-mind/assets/11576342/541d24e9-a20c-4bb6-8ca3-bbe3b134ab87" width="100" height="100"/>
       </td>
    </tr>
 </table>
