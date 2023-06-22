@@ -46,6 +46,11 @@ The Re-mind 🧠 App leverages the following technologies to deliver a seamless 
 
 By incorporating these technologies into the Re-mind 🧠 App, I ensured a robust, efficient, and user-friendly experience for DSA revision.
 
+# Demo
+
+https://github.com/ch8n/Re-mind/assets/11576342/ac339053-588b-47de-af9b-138fcc75ba89
+
+
 # Proprietary Closed Source License
 
 This application is provided as closed-source software, granting you the right to use and distribute it free of charge. However, modification of the application's source code is strictly prohibited. This license restricts any alterations, enhancements, or modifications to the software. Please note that this license does not grant you access to the application's source code or any rights beyond its usage and distribution as provided.
