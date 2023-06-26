@@ -50,6 +50,8 @@ By incorporating these technologies into the Re-mind 🧠 App, I ensured a robus
 
 https://github.com/ch8n/Re-mind/assets/11576342/ac339053-588b-47de-af9b-138fcc75ba89
 
+# Where is Code?
+Code isn't public till it's feature complete and ready for code reviews! 
 
 # Proprietary Closed Source License
 
@@ -64,8 +66,6 @@ In no event shall the authors or copyright holders be liable for any claim, dama
 Please read and understand this license before using or distributing the application.
 
 ---
-# Where is Code?
-Code isn't public till it's feature complete and ready for code reviews! 
 
 ## Download
 
