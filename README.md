@@ -64,6 +64,8 @@ In no event shall the authors or copyright holders be liable for any claim, dama
 Please read and understand this license before using or distributing the application.
 
 ---
+# Where is Code?
+Code isn't public till it's feature complete and ready for code reviews! 
 
 ## Download
 
