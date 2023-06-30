@@ -71,9 +71,9 @@ Please read and understand this license before using or distributing the applica
 
 <table>
    <tr>
-      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Mac (here) </a></b></td>
-      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Windows (coming soon) </a></b></td>
-      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.1">Linux (here) </a></b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.2">Mac (here) </a></b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.2">Windows (coming soon) </a></b></td>
+      <td><b><a href="https://github.com/ch8n/Re-mind/releases/tag/1.0.2">Linux (here) </a></b></td>
    </tr>
    <tr>
       <td>
